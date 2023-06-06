@@ -1,5 +1,6 @@
 # CursoBigData 
 
+Día 1 05/06/23
 Archivo 1 
 Básicos y creación de variables
 
