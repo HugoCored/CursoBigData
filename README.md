@@ -11,3 +11,11 @@ Acciones básicas con variables
 
 Archivo 3
 Ejercicio de crear tabla con condicionales
+
+Día 2 06/06/23
+
+Archivo 4 
+Pandas
+
+Archivo 5
+Ejercicios 
